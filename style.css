@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    background-color: aquamarine ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p{
+    background-color: seagreen;
+}
+
+header {
+    position:relative; 
+    text-align: center;
+    display: grid;
+    background-color: peru;
+    grid-auto-flow: column;
+    top: 0px;
+    width: 900px;
+    padding: 20px;
+    z-index: 2;
+}
+
+.break {
+    padding-top: 3%;
+
+}
